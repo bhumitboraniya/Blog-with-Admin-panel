@@ -37,35 +37,37 @@ To set up this project locally:
    git clone <repository-url>
    cd blog
    ```
-##b Set Up Database:
+## Set Up Database:
 
 Create a MySQL database and import the SQL file provided in the config directory (if applicable).
 
-### Configure Environment:
+## Configure Environment:
 
 Update the database credentials and other configurations in the appropriate PHP configuration files inside the config directory.
 
-### Run the Application:
+## Run the Application:
 
 Place the project files in your web server's root directory (e.g., htdocs for XAMPP or www for WAMP) and access the application in your browser.
 
-### Usage
+## Usage
 User Registration and Login:
 
 Register as a new user or login using existing credentials.
-Admin Access:
+
+## Admin Access:
 
 Access the admin panel via the admin directory to manage posts, categories, and users.
-Managing Content:
+
+## Managing Content:
 
 Add, edit, or delete posts and categories through the admin interface.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-### License
+## License
 This project is licensed under the MIT License.
 
-### Contact
+## Contact
 For any questions or suggestions, please contact the project maintainer.
 
 Name: Bhumit Boraniya
