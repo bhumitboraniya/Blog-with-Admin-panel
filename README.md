@@ -2,6 +2,10 @@
 
 A dynamic blog application with an admin panel, allowing users to browse blog posts and administrators to manage content and users.
 
+
+## Full Project Link:
+https://www.youtube.com/watch?v=rAet-iQhnKA
+
 ## Features
 
 - **User Authentication**: Register, sign in, and manage sessions.
@@ -63,9 +67,6 @@ Access the admin panel via the admin directory to manage posts, categories, and 
 Add, edit, or delete posts and categories through the admin interface.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any questions or suggestions, please contact the project maintainer.
